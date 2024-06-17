@@ -1,1 +1,21 @@
 # FastAPI CRUD Operation
+## Project Structure
+- .gitignore
+- README.md
+- config
+  - db.py
+- main.py
+- models
+  - project_1.py
+  - project_2.py
+  - project_3.py
+- requirements.txt
+- routes
+  - email_invite.py
+  - project_1.py
+  - project_2.py
+  - project_3.py
+- schemas
+  - project_1.py
+  - project_2.py
+  - project_3.py
